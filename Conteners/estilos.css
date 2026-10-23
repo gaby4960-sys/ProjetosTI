@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing:border-box;
+}
+
+.Conterners{
+    display: flex;
+    height: 1000px;
+    width:1000px ;
+    background-color: rgb(179, 123, 231);
+
+}
+
+.box1{
+    height: 300px;
+    width:300px ;
+    background-color: rgb(236, 124, 199);
+    margin:3px;
+    border-style: double;
+    padding:2px ;
+    border-radius: 2px;
+    }
+
+.box2{
+    height: 300px;
+    width:300px ;
+    background-color: rgb(110, 226, 235);
+    margin:4px;
+    border-style: groove;
+    padding:3px ;
+    border-radius: 3px;
+    }
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(231, 141, 113);
+    margin:5px;
+    border-style: groove;
+    padding:4px ;
+    border-radius: 4px;
+    }

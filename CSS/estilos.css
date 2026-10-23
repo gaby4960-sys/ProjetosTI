@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color:rgb(127, 51, 199)
+}
+
+body{
+background-color: rgb(240, 175, 220);
+background-image: url(black-cat.png);
+background-repeat: no-repeat;
+background-position-x:center;
+background-position-x: 65cap;
+background-position-y: 30cap;
+
+}
+
+p{
+
+    font-family: 'Times New Roman', Times, serif;
+    font: size 20px; ;
+    text-align: center;
+}
